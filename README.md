@@ -1,4 +1,4 @@
-# Fund Me Basic Web FrontEnd Project
+# Fund Me Basic Web3 FrontEnd Project
 
 <div id="top"></div>
 
