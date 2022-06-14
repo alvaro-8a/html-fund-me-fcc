@@ -1,4 +1,4 @@
-# Fund Me Hardhat Project
+# Fund Me Basic Web FrontEnd Project
 
 <div id="top"></div>
 
