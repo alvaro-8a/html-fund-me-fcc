@@ -15,12 +15,6 @@ The project represents a basic JS frontend web to interact with the [crowdfundin
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Etherscan verification
-
-This project also includes automatic verification of the contract for real networks. The verification is only executed when running on real networks
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 -   [JavaScript](https://www.javascript.com/)
